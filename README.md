@@ -1,0 +1,2 @@
+# Lightgbt_Project
+Musteri_Kayip_Potansiyeli_AiProject
